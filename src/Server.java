@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Date;
 
-public class DateServer {
+public class Server {
     private static String[] names = {"Willy", "Felix", "Carlsbad", "Hobob"};
     private static String[] adjs = {"the gentle", " the un-gentle", "the overwieght", "the urbane"};
     private static final int PORT = 9090;
